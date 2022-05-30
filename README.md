@@ -27,3 +27,8 @@ I studied hard to get out of high school early and graduated in 2011. One of my 
 With this new PC I've gotten heavily into PC gaming and been able to expand my homebrewing capabilities.
 #### Advancing My Knowledge..
 So it's 2021 now in this timeline and I've continued in my efforts of expanding my know-how. Since then, I've gotten into 3D-Printing and design as a COVID hobby and gained some familiarity with gcode (The code that both 3D-Printers and CNC Machines use) to allow me to edit what my 3D printer does both before and after prints. I've familiarized myself with both Delta and Cartesian 3D Printers. 
+
+## Classes Cetifications and Courses Taken
+* CS50P 2022 Harvard Introduction to Python Class
+* A+ Certification 2014
+* 
